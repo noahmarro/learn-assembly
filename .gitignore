@@ -1,0 +1,13 @@
+# executables (extension-less files)
+*
+!/**/
+!*.*
+
+# object files
+*.o
+
+# book
+book
+
+# misc
+.DS_Store
